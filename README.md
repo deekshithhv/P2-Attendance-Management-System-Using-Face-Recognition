@@ -19,10 +19,7 @@ MySQL
 Pillow
 
 Installation
-1. Clone the Repository
-git clone https://github.com/yourusername/attendance-management-system.git
-cd attendance-management-system
-2. Install Required Packages
+1. Install Required Packages
 Ensure Python is installed on your system, then install the necessary dependencies:
 
 pip install -r requirements.txt
@@ -47,6 +44,7 @@ Use the "Manually Fill Attendance" option to manually fill attendance records.
 Access the admin panel to view the list of registered students and their details.
 Directory Structure
 Attendance Management System using Face Recognition/
+
 │
 ├── TrainingImage/               # Directory to store training images
 ├── TrainingImageLabel/          # Directory to save trained model
